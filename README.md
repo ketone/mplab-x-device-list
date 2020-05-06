@@ -1,1 +1,1 @@
-# mplab_x-device-list
+# mplab-x-device-list
